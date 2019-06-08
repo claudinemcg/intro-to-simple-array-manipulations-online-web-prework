@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def using_push(array, string)         # add string to end of array
   array.push(string)
 end
@@ -47,3 +48,32 @@ def using_delete_at(array, int)     # delete element[int] in the array
   array.delete(array[int])
 end
 
+=======
+def using_push(array, string)
+  array.push(string)
+end
+
+def using_unshift(array, string)
+  array.unshift(string)
+end
+
+def using_pop(array)
+  array.pop
+end
+
+def pop_with_args
+  
+  
+end
+
+def
+end
+def
+end
+def
+end
+def
+end
+def
+end
+>>>>>>> 7ebf8827f5c163e6a4a4801345a39fde07aec698
